@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Amrit Kaur Choudhary
 
 You can use the [editor on GitHub](https://github.com/AmritKaurChoudhary/amritkaur.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
